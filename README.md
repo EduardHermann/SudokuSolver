@@ -6,10 +6,10 @@
 
 ## How to use the program
 
-- Left mouse button: draw start node, then end node, then barrier
-- Right mouse button: remove node
-- D key: visualize Dijkstra
-- A key: visualize AStar
+- Click: select field
+- Arrow keys: navigate the selected field
+- G key: generate new solvable sudoku board
+- Space key: solve the sudoku board
 
 ## How to start the program
  
