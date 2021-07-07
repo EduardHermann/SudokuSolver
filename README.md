@@ -2,7 +2,7 @@
 
 ## Description
 
-- This is the classic Sudoku board game
+- This is the classic sudoku board game
 
 ## How to use the program
 
