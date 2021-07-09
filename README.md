@@ -7,6 +7,8 @@
 ## How to use the program
 
 - Click: select field
+- Digit: sketch wanted number
+- ENTER key: confirm the digit
 - Arrow keys: navigate the selected field
 - G key: generate new solvable sudoku board
 - Space key: solve the sudoku board
