@@ -2,7 +2,7 @@
 
 ## Description
 
-- This is the classic sudoku board game
+- This is the classic sudoku board game with several "quality of life changes"
 
 ## How to use the program
 
